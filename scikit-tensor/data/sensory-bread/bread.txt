@@ -1,0 +1,7 @@
+Sensory profiling bread data from Prof. Magni Martens.
+
+Earlier described in 
+Bro, R, Multi-way Analysis in the Food Industry. Models, Algorithms, and Applications. 
+1998.  PhD thesis, University of Amsterdam (NL) & Royal Veterinary and Agricultural University (DK). 
+
+For further info see above reference or http://www.models.kvl.dk/users/rasmus/
